@@ -1,0 +1,1733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Breweries count="346">
+<Brewery id="264">
+<Name>2 Penny Brewing</Name>
+<City>Blenheim</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="236">
+<Name>3 Fonteinen</Name>
+<City>Beersel</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="228">
+<Name>4 Avenues</Name>
+<City>Christchurch</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="324">
+<Name>666 Brewing</Name>
+<City>Fuck Knows</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="100">
+<Name>8 Wired Brewing Company</Name>
+<City>Blenheim</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="278">
+<Name>Adnams</Name>
+<City>southwold</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="347">
+<Name>Adroit Theory</Name>
+<City>Virginia</City>
+<Country>US</Country>
+</Brewery>
+<Brewery id="261">
+<Name>Alken-Maes</Name>
+<City>Koppegem</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="306">
+<Name>Almanac</Name>
+<City>San Francisco</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="68">
+<Name>Amstel Brewery</Name>
+<City>Zoeterwoude</City>
+<Country>Netherlands</Country>
+</Brewery>
+<Brewery id="143">
+<Name>Anheuser%u2013Busch InBev</Name>
+<City>Leuven</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="54">
+<Name>Aotearoa Breweries</Name>
+<City>Kawerau</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="138">
+<Name>Asahi Breweries</Name>
+<City>Osaka</City>
+<Country>Japan</Country>
+</Brewery>
+<Brewery id="271">
+<Name>Bach Brewing</Name>
+<City>Auckland</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="255">
+<Name>Baird Brewing</Name>
+<City>Numazu</City>
+<Country>Japan</Country>
+</Brewery>
+<Brewery id="148">
+<Name>Ballast Point</Name>
+<City>San Diego</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="277">
+<Name>Batemans Brewery</Name>
+<City>Lincolnshire</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="58">
+<Name>Bath Ales</Name>
+<City>Bristol</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="315">
+<Name>Bavik - De Brabandere Brouwerij</Name>
+<City>Bavikhove</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="250">
+<Name>Baylands Brewery</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="34">
+<Name>Bays Brewery</Name>
+<City>Nelson</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="98">
+<Name>Bear Republic Brewing Company</Name>
+<City>Healdsburg CA</City>
+<Country>United States</Country>
+</Brewery>
+<Brewery id="320">
+<Name>Beavertown Brewery</Name>
+<City>London</City>
+<Country>UK</Country>
+</Brewery>
+<Brewery id="45">
+<Name>Becks Brewery</Name>
+<City>Bremen</City>
+<Country>Germany</Country>
+</Brewery>
+<Brewery id="284">
+<Name>Beer Baroness</Name>
+<City>Auckland</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="270">
+<Name>Behemoth Brewing Co</Name>
+<City>Christchurch</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="56">
+<Name>Belhaven Brewery</Name>
+<City>Belhaven</City>
+<Country>Scotland</Country>
+</Brewery>
+<Brewery id="92">
+<Name>Belle-Vue Brewery</Name>
+<City>Brussels</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="198">
+<Name>Ben Middlemiss Brewery</Name>
+<City>Auckland</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="75">
+<Name>Bennett's Brewing Company</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="86">
+<Name>Bières de Chimay</Name>
+<City>Chimay</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="174">
+<Name>Bierbrouwerij de Koningshoeven B.V.</Name>
+<City>Berkel-Enschot</City>
+<Country>Netherlands</Country>
+</Brewery>
+<Brewery id="232">
+<Name>Big Sky Brewing</Name>
+<City>Montana</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="307">
+<Name>Birradamare</Name>
+<City>Rome</City>
+<Country>Italy</Country>
+</Brewery>
+<Brewery id="39">
+<Name>Bitburger brewery</Name>
+<City>Bitburg</City>
+<Country>Germany</Country>
+</Brewery>
+<Brewery id="130">
+<Name>Black Dog Brewery</Name>
+<City>Wellington</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="151">
+<Name>Black Sheep</Name>
+<City>Masham</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="227">
+<Name>Boundary Road Brewery</Name>
+<City>Auckland</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="125">
+<Name>Brasserie d'Achouffe</Name>
+<City>Achouffe</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="87">
+<Name>Brasserie d’ Achouffe</Name>
+<City>Achouffe</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="292">
+<Name>Brasserie deSaint Sylvestre</Name>
+<City>Cappel</City>
+<Country>France</Country>
+</Brewery>
+<Brewery id="188">
+<Name>Brasserie Dupont</Name>
+<City>TOURPES</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="212">
+<Name>Brasseries Kronenbourg</Name>
+<City>Strasbourg</City>
+<Country>France</Country>
+</Brewery>
+<Brewery id="311">
+<Name>Brew By Numbers</Name>
+<City>London</City>
+<Country>UK</Country>
+</Brewery>
+<Brewery id="352">
+<Name>Brew Cult</Name>
+<City>Contract Brewery</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="114">
+<Name>Brew Moon Brewing Co</Name>
+<City>Amberley</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="27">
+<Name>Brew Moon Brewing Company</Name>
+<City>Amberley</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="321">
+<Name>Brew Mountain</Name>
+<City>New Plymouth</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="210">
+<Name>Brewaucracy</Name>
+<City>Hamilton</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="55">
+<Name>BrewDog Brewery</Name>
+<City>Fraserburgh</City>
+<Country>Scotland</Country>
+</Brewery>
+<Brewery id="331">
+<Name>Brewer's Brothers</Name>
+<City>Blanes, Girona</City>
+<Country>Spain</Country>
+</Brewery>
+<Brewery id="83">
+<Name>Brewery Bosteels</Name>
+<City>Buggenhout</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="99">
+<Name>Bridge Road Brewers</Name>
+<City>Beechworth VIC</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="162">
+<Name>Brouwerij Boon</Name>
+<City>Halle</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="160">
+<Name>Brouwerij Bosteels</Name>
+<City>Buggenhout</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="76">
+<Name>Brouwerij der Trappisten van Westmalle</Name>
+<City>Malle</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="85">
+<Name>Brouwerij Duvel Moortgat</Name>
+<City>Breendonk</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="89">
+<Name>Brouwerij F. Boon</Name>
+<City>Lembeek</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="158">
+<Name>Brouwerij Huyghe</Name>
+<City>Melle</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="280">
+<Name>Brouwerij Liefmans</Name>
+<City>Oudenaard</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="72">
+<Name>Brouwerij Palm</Name>
+<City>Steenhuffel</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="74">
+<Name>Brouwerij Rodenbach</Name>
+<City>Roeselare</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="84">
+<Name>Brouwerij Timmermans</Name>
+<City>Dilbeek-Itterbeek</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="237">
+<Name>Brouwerij Van Honsebrouck</Name>
+<City>Ingelmunster</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="167">
+<Name>Brouwerij Van Steenberge</Name>
+<City>Ertvelde</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="152">
+<Name>Brouwerij Van Steenberge N.V.</Name>
+<City>Ertvelde</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="256">
+<Name>Brouwerij Verhaeghe</Name>
+<City>Vichte</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="71">
+<Name>Budějovický Budvar</Name>
+<City>Budweis</City>
+<Country>Czech Republic</Country>
+</Brewery>
+<Brewery id="195">
+<Name>Budweiser</Name>
+<City>U.S</City>
+<Country>U.S</Country>
+</Brewery>
+<Brewery id="294">
+<Name>Camden Town Brewery</Name>
+<City>London</City>
+<Country>UK</Country>
+</Brewery>
+<Brewery id="153">
+<Name>Cameron's</Name>
+<City>Hartlepool</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="204">
+<Name>Cantillon</Name>
+<City>Brussels</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="15">
+<Name>Carlton &amp; United Beverages</Name>
+<City>Melbourne</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="17">
+<Name>Cascade Brewery</Name>
+<City>Tasmania</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="106">
+<Name>Cassels And Sons</Name>
+<City>Christchurch</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="154">
+<Name>Cerveceria Mexicana</Name>
+<City>Tecate</City>
+<Country>Mexico</Country>
+</Brewery>
+<Brewery id="144">
+<Name>Cerveceria Modelo</Name>
+<City>Coahuila</City>
+<Country>Mexico</Country>
+</Brewery>
+<Brewery id="327">
+<Name>Cerveses La Gardenia</Name>
+<City>Tarragona</City>
+<Country>Spain</Country>
+</Brewery>
+<Brewery id="329">
+<Name>Cerveza Artesanal Albero</Name>
+<City>Mairena de Aljarafe</City>
+<Country>Spain</Country>
+</Brewery>
+<Brewery id="330">
+<Name>Cerveza Artesanal Son</Name>
+<City>Algallarin</City>
+<Country>Spain</Country>
+</Brewery>
+<Brewery id="334">
+<Name>Cerveza Mammooth</Name>
+<City>Granada</City>
+<Country>Spain</Country>
+</Brewery>
+<Brewery id="332">
+<Name>Cervezas la Cibeles</Name>
+<City>Madrid</City>
+<Country>Spain</Country>
+</Brewery>
+<Brewery id="340">
+<Name>Choice Bros</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="69">
+<Name>Cobra Beer</Name>
+<City>Bangalore</City>
+<Country>India</Country>
+</Brewery>
+<Brewery id="18">
+<Name>Cooper's Brewery</Name>
+<City>Adelaide</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="295">
+<Name>Coopers</Name>
+<City>Adelade</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="238">
+<Name>Coronado</Name>
+<City>California</City>
+<Country>United States</Country>
+</Brewery>
+<Brewery id="246">
+<Name>Crooked</Name>
+<City>Wairarapa</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="32">
+<Name>Croucher Brewing</Name>
+<City>Rotorua</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="70">
+<Name>Cuauhtémoc Moctezuma</Name>
+<City>Monterrey</City>
+<Country>Mexico</Country>
+</Brewery>
+<Brewery id="157">
+<Name>Dales Brewing Co</Name>
+<City>Richmond</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="300">
+<Name>Dark Star Brewing</Name>
+<City>West Sussex</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="326">
+<Name>Daviyun/Sagra</Name>
+<City>Toledo</City>
+<Country>Spain</Country>
+</Brewery>
+<Brewery id="303">
+<Name>De Dolle</Name>
+<City>Diksmuide</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="257">
+<Name>de Molen</Name>
+<City>Bodegraven</City>
+<Country>Netherlands</Country>
+</Brewery>
+<Brewery id="113">
+<Name>Dead Good Beer</Name>
+<City>Nelson</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="244">
+<Name>Deebles</Name>
+<City>Wellington</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="128">
+<Name>Deep Creek Brewing Co</Name>
+<City>Browns Bay, Auckland</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="147">
+<Name>Deschutes</Name>
+<City>Bend, Oregon</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="187">
+<Name>Desnoes and Geddes</Name>
+<City>Kingston</City>
+<Country>Jamaica</Country>
+</Brewery>
+<Brewery id="78">
+<Name>Do Bocq</Name>
+<City>Purnode-Yvoir</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="159">
+<Name>Dogfish Head</Name>
+<City>Milton, Delaware</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="5">
+<Name>Dominion Breweries</Name>
+<City>Auckland</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="335">
+<Name>Domus</Name>
+<City>Toledo</City>
+<Country>Spain</Country>
+</Brewery>
+<Brewery id="156">
+<Name>Dortmunder Actien Brauerei</Name>
+<City>Dortmund</City>
+<Country>Germany</Country>
+</Brewery>
+<Brewery id="348">
+<Name>Duncan's</Name>
+<City>Kapiti</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="180">
+<Name>Dunston Brewery</Name>
+<City>Dunston</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="12">
+<Name>Dux de Lux</Name>
+<City>Christchurch</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="1">
+<Name>Emerson Brewing Company</Name>
+<City>Dunedin</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="4">
+<Name>Epic Brewing Company</Name>
+<City>Auckland</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="252">
+<Name>Epic Malthouse Collaboration</Name>
+<City>Wellington/ Auckland</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="8">
+<Name>Erdinger Brewery</Name>
+<City>Erding</City>
+<Country>Germany</Country>
+</Brewery>
+<Brewery id="325">
+<Name>Euskal Garagardoa</Name>
+<City>Ergoien Auzoa</City>
+<Country>Spain</Country>
+</Brewery>
+<Brewery id="333">
+<Name>Fabrica de Cerveza Kettal</Name>
+<City>Los Barrios</City>
+<Country>Spain</Country>
+</Brewery>
+<Brewery id="268">
+<Name>Feral Brewing</Name>
+<City>Perth</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="291">
+<Name>Fiasco</Name>
+<City>Christchurch</City>
+<Country>new Zealand</Country>
+</Brewery>
+<Brewery id="91">
+<Name>Firestone Walker Brewing Company</Name>
+<City>Paso Robles</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="161">
+<Name>Flying Dog Brewery</Name>
+<City>Frederick</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="215">
+<Name>Fork &amp; Brewer</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="44">
+<Name>Founders Organic Brewery</Name>
+<City>Nelson</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="229">
+<Name>Four Avenues</Name>
+<City>Christchurch</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="48">
+<Name>Fuller's Brewery</Name>
+<City>London</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="196">
+<Name>Funk Estate</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="61">
+<Name>G. Schneider &amp; Sohn</Name>
+<City>Kelheim</City>
+<Country>Germany</Country>
+</Brewery>
+<Brewery id="139">
+<Name>Galbraith Brewing Co.</Name>
+<City>Auckland</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="26">
+<Name>Galbraith Brewing Company</Name>
+<City>Auckland</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="119">
+<Name>Garage Project</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="274">
+<Name>Geek Brewing</Name>
+<City>Wellington</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="353">
+<Name>Gigantic/8 Wired</Name>
+<City>Portland/ Blenheim</City>
+<Country>USA/NZ</Country>
+</Brewery>
+<Brewery id="112">
+<Name>Golden Bear Brewing Company</Name>
+<City>Mapua, Nelson</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="131">
+<Name>Golden Eagle</Name>
+<City>Christchurch</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="225">
+<Name>Golden Road</Name>
+<City>California</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="96">
+<Name>Golden Ticket Brewing</Name>
+<City>Invercargill</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="217">
+<Name>Good George</Name>
+<City>Hamilton</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="226">
+<Name>Goose Island</Name>
+<City>Chicago, IL</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="297">
+<Name>Governor</Name>
+<City>Auckland</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="140">
+<Name>Green Flash Brewing Co.</Name>
+<City>San Diego</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="33">
+<Name>Green Man Brewery</Name>
+<City>Dunedin</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="109">
+<Name>Greene King Brewery</Name>
+<City>Bury St Edmunds</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="136">
+<Name>Grolsch Brewery</Name>
+<City>Enschede</City>
+<Country>Netherlands</Country>
+</Brewery>
+<Brewery id="209">
+<Name>Grumpy Boyz</Name>
+<City>Auckland</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="137">
+<Name>H.P Bulmer</Name>
+<City>Hereford</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="19">
+<Name>Hahn Brewery</Name>
+<City>Sydney</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="219">
+<Name>Half Tanked</Name>
+<City>Wellington/Kawerau</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="163">
+<Name>Hall &amp; Woodhouse</Name>
+<City>Dorset</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="343">
+<Name>Hallertau</Name>
+<City>Auckland</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="308">
+<Name>Hallertau &amp; Liberty Brewing Co.</Name>
+<City>Auckland</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="93">
+<Name>Hallertau Brewbar</Name>
+<City>Riverhead</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="222">
+<Name>Hangar 24</Name>
+<City>Redlands, California</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="35">
+<Name>Harrington's Breweries</Name>
+<City>Christchurch</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="120">
+<Name>Harviestoun</Name>
+<City>Hillfoots Village</City>
+<Country>Scotland</Country>
+</Brewery>
+<Brewery id="110">
+<Name>Hawkes Bay Independent Brewery</Name>
+<City>Napier, Hawkes Bay</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="337">
+<Name>Hawkshead Brewery</Name>
+<City>Kendal</City>
+<Country>UK</Country>
+</Brewery>
+<Brewery id="155">
+<Name>Heileman Brew Co</Name>
+<City>Milwaukee</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="95">
+<Name>Heineken International</Name>
+<City>Amsterdam</City>
+<Country>The Netherlands</Country>
+</Brewery>
+<Brewery id="282">
+<Name>Heretic Brewing Company</Name>
+<City>California</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="341">
+<Name>Herne Brewing</Name>
+<City>Otago</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="79">
+<Name>Hoegaarden Brewery</Name>
+<City>Hoegaarden</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="6">
+<Name>Hofbrauhaus</Name>
+<City>Munich</City>
+<Country>Germany</Country>
+</Brewery>
+<Brewery id="214">
+<Name>Holgate</Name>
+<City>Melbourne</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="168">
+<Name>Holsten</Name>
+<City>Hamburg</City>
+<Country>Germany</Country>
+</Brewery>
+<Brewery id="57">
+<Name>Hook Norton Brewery</Name>
+<City>Oxfordshire</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="304">
+<Name>Hop Federation</Name>
+<City>Riwaka</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="318">
+<Name>Hop Hustlers</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="263">
+<Name>Hop Monger</Name>
+<City>Christchurch</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="239">
+<Name>Hophugger</Name>
+<City>Christchurch</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="269">
+<Name>Hopmonger</Name>
+<City>Christchurch</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="319">
+<Name>Hot Water Brewing</Name>
+<City>Coromandel</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="213">
+<Name>Huyghe Brewery</Name>
+<City>Melle</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="52">
+<Name>Hydes Brewery Ltd</Name>
+<City>Manchester</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="173">
+<Name>InBev Belgium</Name>
+<City>Leuven</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="202">
+<Name>Independent Breweries</Name>
+<City>Auckland</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="13">
+<Name>Invercargill Brewing Company</Name>
+<City>Invercargill</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="24">
+<Name>Island Bay Brewing Company</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="20">
+<Name>J. Boag &amp; Sons</Name>
+<City>Tasmania</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="206">
+<Name>James Squires</Name>
+<City>Melbourne</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="344">
+<Name>John Crabbie &amp; Co</Name>
+<City>Glasgow</City>
+<Country>Scotland</Country>
+</Brewery>
+<Brewery id="164">
+<Name>John Martin SA</Name>
+<City>Genval</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="103">
+<Name>Kaimai Brewing Company</Name>
+<City>Bay of Plenty</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="265">
+<Name>Kakariki Beer Co</Name>
+<City>NFA Contract Brewery</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="205">
+<Name>Kereru</Name>
+<City>Silverstream</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="233">
+<Name>Keruru</Name>
+<City>Upper Hutt</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="146">
+<Name>KJD Brewing Company</Name>
+<City>Christchurch</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="171">
+<Name>Kona Brewing Company</Name>
+<City>Honolulu</City>
+<Country>Hawaii - USA</Country>
+</Brewery>
+<Brewery id="172">
+<Name>Kostritzer</Name>
+<City>Kostritzer</City>
+<Country>Germany</Country>
+</Brewery>
+<Brewery id="328">
+<Name>La Zaragozana</Name>
+<City>Zaragoza</City>
+<Country>Spain</Country>
+</Brewery>
+<Brewery id="175">
+<Name>Lagunitas</Name>
+<City>California</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="296">
+<Name>Lakefront Brewery</Name>
+<City>Milwaukee, Wisconsin</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="281">
+<Name>Lakeman Brewing</Name>
+<City>Taupo</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="221">
+<Name>Left Coast</Name>
+<City>Del Mar, California</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="116">
+<Name>Liberty Brewing Co</Name>
+<City>New Plymouth</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="176">
+<Name>Liefman's</Name>
+<City>Oudenaarde</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="64">
+<Name>Limburg</Name>
+<City>Havelock North</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="260">
+<Name>Lindemans</Name>
+<City>Viesenbeek</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="65">
+<Name>Lion Breweries</Name>
+<City>Auckland</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="314">
+<Name>Liquid Alchemy</Name>
+<City>Nelson</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="22">
+<Name>Little Creatures Brewery</Name>
+<City>Fremantle WA</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="351">
+<Name>Lobethal Bierhaus</Name>
+<City>Lobethal SA</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="108">
+<Name>Mac's</Name>
+<City>AKL</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="36">
+<Name>Mac's Brewery Bar</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="207">
+<Name>Magic Hat</Name>
+<City>Vermont</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="123">
+<Name>Marston's</Name>
+<City>Burton-on-Trent</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="243">
+<Name>Mata</Name>
+<City>Kawarau</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="21">
+<Name>Matilda Bay Brewing Company</Name>
+<City>Fremantle WA</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="200">
+<Name>Maui Brewing Company</Name>
+<City>Maui, Hawaii</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="317">
+<Name>McCashin's Brewery</Name>
+<City>Nelson</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="121">
+<Name>Meantime</Name>
+<City>London</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="177">
+<Name>Melchers</Name>
+<City>AJ LELYSTAD</City>
+<Country>The Netherlands</Country>
+</Brewery>
+<Brewery id="178">
+<Name>Mendocino</Name>
+<City>California</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="47">
+<Name>Mike's Organic Brewery</Name>
+<City>Taranaki</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="310">
+<Name>Mikkeller</Name>
+<City>Copenhagen</City>
+<Country>Denmark</Country>
+</Brewery>
+<Brewery id="182">
+<Name>Miller Brewing Co</Name>
+<City>Milwaukee, Wisconsin</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="179">
+<Name>Mission Brewery</Name>
+<City>Sandiego</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="11">
+<Name>Moa Brewing Company</Name>
+<City>Blenheim</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="115">
+<Name>Monkey Wizard Brewery</Name>
+<City>Motueka</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="247">
+<Name>Monteith's</Name>
+<City>Greymouth</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="208">
+<Name>Moo Brew</Name>
+<City>Tasmania</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="251">
+<Name>Moon Dog</Name>
+<City>Melbourne</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="53">
+<Name>Morland Brewery</Name>
+<City>Abingdon</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="258">
+<Name>Mountain Goat</Name>
+<City>Melbourne</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="267">
+<Name>Murray's</Name>
+<City>Bob's Farm</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="97">
+<Name>Mussel Inn</Name>
+<City>Onekaka</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="149">
+<Name>New Belgium Brewing Company</Name>
+<City>Fort Collins, CO</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="216">
+<Name>Newcastle Brewery</Name>
+<City>Edinburgh</City>
+<Country>Scotland</Country>
+</Brewery>
+<Brewery id="242">
+<Name>Nogne O</Name>
+<City>Grimstad</City>
+<Country>Norway</Country>
+</Brewery>
+<Brewery id="135">
+<Name>Nogne/8 Wired/Renaissance</Name>
+<City>Blenheim</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="181">
+<Name>North Coast Brewing Co</Name>
+<City>California</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="293">
+<Name>North End Brewing</Name>
+<City>Waikanae</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="322">
+<Name>North End Brewing/Twisted Hop</Name>
+<City>.</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="235">
+<Name>Northdown Craft Beer</Name>
+<City>Melbourne</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="286">
+<Name>Northend</Name>
+<City>Waikanae</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="80">
+<Name>Notre Dame de Leffe</Name>
+<City>Namur</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="67">
+<Name>O'Brien Brewery</Name>
+<City>Ballarat</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="88">
+<Name>O'hanlon's</Name>
+<City>Devon</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="230">
+<Name>Old Mout Cider</Name>
+<City>Nelson</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="81">
+<Name>Orval Abbey</Name>
+<City>Florenville</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="220">
+<Name>Pabst</Name>
+<City>Wilmaukee</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="266">
+<Name>Panhead</Name>
+<City>Upper Hutt</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="117">
+<Name>ParrotDog</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="201">
+<Name>Paulaner Brauerei</Name>
+<City>Munich</City>
+<Country>Germany</Country>
+</Brewery>
+<Brewery id="31">
+<Name>Peak Brewery</Name>
+<City>Masterton</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="305">
+<Name>Peckham's</Name>
+<City>Nelson</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="224">
+<Name>Peckhams</Name>
+<City>Upper Moutere</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="323">
+<Name>Pelican Pub &amp; Brewery</Name>
+<City>Pacific City, Oregon</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="73">
+<Name>Peroni Brewery</Name>
+<City>Rome</City>
+<Country>Italy</Country>
+</Brewery>
+<Brewery id="184">
+<Name>Pink Elephant</Name>
+<City>Blenheim</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="38">
+<Name>Pink Elephant Brewery</Name>
+<City>Blenheim</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="42">
+<Name>Plzensky Prazdroj</Name>
+<City>Pilsen</City>
+<Country>Czech Republic</Country>
+</Brewery>
+<Brewery id="245">
+<Name>Pyramid Brewery</Name>
+<City>Seattle, Washington</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="275">
+<Name>Queenstown Brewer</Name>
+<City>Otago</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="231">
+<Name>Quilmes</Name>
+<City>Buenos Aires</City>
+<Country>Argentina</Country>
+</Brewery>
+<Brewery id="186">
+<Name>Radeberger</Name>
+<City>Radeberg</City>
+<Country>Germany</Country>
+</Brewery>
+<Brewery id="133">
+<Name>Raindogs</Name>
+<City>Christchurch</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="288">
+<Name>Rascall's</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="141">
+<Name>Rekorderlig</Name>
+<City>Vimmerby</City>
+<Country>Sweden</Country>
+</Brewery>
+<Brewery id="342">
+<Name>Relativity Brewing</Name>
+<City>Waiheke Island</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="273">
+<Name>Remedy Brewing Co</Name>
+<City>Wellington</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="9">
+<Name>Renaissance Brewing</Name>
+<City>Blenheim</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="166">
+<Name>Resolute Brewing</Name>
+<City>Christchurch</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="126">
+<Name>Rochefort</Name>
+<City>Rochefort</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="183">
+<Name>Rogue Ales</Name>
+<City>Oregon</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="41">
+<Name>Roosters Brewhouse</Name>
+<City>Hastings</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="249">
+<Name>Russian River</Name>
+<City>California</City>
+<Country>US</Country>
+</Brewery>
+<Brewery id="283">
+<Name>S.A. Damm</Name>
+<City>Barcelona</City>
+<Country>Spain</Country>
+</Brewery>
+<Brewery id="203">
+<Name>Saltaire</Name>
+<City>Shipley</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="189">
+<Name>Samuel Adams</Name>
+<City>Boston</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="60">
+<Name>Samuel Adams Brewery</Name>
+<City>Boston MA</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="16">
+<Name>Sapporo Breweries Limited</Name>
+<City>Tokyo</City>
+<Country>Japan</Country>
+</Brewery>
+<Brewery id="240">
+<Name>Schipper's</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="62">
+<Name>Schofferhofer</Name>
+<City>Frankfurt</City>
+<Country>Germany</Country>
+</Brewery>
+<Brewery id="77">
+<Name>Scott's Brewing Company</Name>
+<City>Auckland</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="262">
+<Name>Sectret 7</Name>
+<City>Christchurch</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="90">
+<Name>Shmaltz Brewing Company</Name>
+<City>San Francisco</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="336">
+<Name>Sidreria Zelaia</Name>
+<City>Hernani (Guipuzcoa)</City>
+<Country>Spain</Country>
+</Brewery>
+<Brewery id="10">
+<Name>Sierra Nevada Brewery</Name>
+<City>Chico CA</City>
+<Country>United States</Country>
+</Brewery>
+<Brewery id="122">
+<Name>Skinner's</Name>
+<City>Truro</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="309">
+<Name>Somersby</Name>
+<City>Auckland</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="289">
+<Name>Southern Tier Brewing Company</Name>
+<City>Lakewood, NY</City>
+<Country>United States</Country>
+</Brewery>
+<Brewery id="223">
+<Name>Southstar</Name>
+<City>wellington</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="248">
+<Name>Southstar/Twisted Hop</Name>
+<City>Wellington/Chch</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="259">
+<Name>Speakeasy</Name>
+<City>San Francisco</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="345">
+<Name>Speight's Brewery</Name>
+<City>Dunedin</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="94">
+<Name>Sprig &amp; Fern</Name>
+<City>Nelson</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="190">
+<Name>St Austell</Name>
+<City>Cornwall</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="279">
+<Name>St Bernardus</Name>
+<City>Watou</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="165">
+<Name>St James's Gate</Name>
+<City>Dublin</City>
+<Country>Ireland</Country>
+</Brewery>
+<Brewery id="107">
+<Name>St Peter's</Name>
+<City>Bungay</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="49">
+<Name>St. Francis Abbey</Name>
+<City>Kilkenny</City>
+<Country>Ireland</Country>
+</Brewery>
+<Brewery id="50">
+<Name>St. James's Gate Brewery</Name>
+<City>Dublin</City>
+<Country>Ireland</Country>
+</Brewery>
+<Brewery id="43">
+<Name>Staropramen Brewery</Name>
+<City>Prague</City>
+<Country>Czech Republic</Country>
+</Brewery>
+<Brewery id="338">
+<Name>Steam Brewing Co</Name>
+<City>Auckland</City>
+<Country>Nz</Country>
+</Brewery>
+<Brewery id="30">
+<Name>Steam Brewing Company</Name>
+<City>Auckland</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="118">
+<Name>Stoke</Name>
+<City>Nelson</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="102">
+<Name>Stone &amp; Wood</Name>
+<City>Byron Bay NSW</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="302">
+<Name>Stone Brewing Co.</Name>
+<City>Escondido, CA</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="7">
+<Name>Sunshine Breweries</Name>
+<City>Gisborne</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="211">
+<Name>Sunshine Brewery</Name>
+<City>Gisborne</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="316">
+<Name>Tennent Caledonian Breweries</Name>
+<City>Glasgow</City>
+<Country>Scotland</Country>
+</Brewery>
+<Brewery id="129">
+<Name>test &amp; brewery</Name>
+<City>test &amp; town</City>
+<Country>test &amp; country</Country>
+</Brewery>
+<Brewery id="51">
+<Name>Tetley's Brewery</Name>
+<City>Leeds</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="253">
+<Name>The 4 Horsemen</Name>
+<City>Auckland/ Hamilton</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="197">
+<Name>The Brewery Britomart</Name>
+<City>Auckland</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="285">
+<Name>The Dudes</Name>
+<City>Torrance, California</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="301">
+<Name>The Kernel Brewery</Name>
+<City>London</City>
+<Country>UK</Country>
+</Brewery>
+<Brewery id="101">
+<Name>The Meantime Brewing Company</Name>
+<City>London</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="111">
+<Name>The Sawmill Brewing Company</Name>
+<City>Leigh</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="25">
+<Name>The Twisted Hop</Name>
+<City>Christchurch</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="313">
+<Name>The Wild Beer Company</Name>
+<City>Somerset</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="191">
+<Name>Theakston's</Name>
+<City>Masham</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="104">
+<Name>Thornbridge Brewery</Name>
+<City>Derbyshire</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="2">
+<Name>Three Boys Brewery</Name>
+<City>Christchurch</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="127">
+<Name>Timmermans</Name>
+<City>Itterbeek</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="82">
+<Name>Timothy Taylor</Name>
+<City>Keighley</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="299">
+<Name>Tiny Rebel</Name>
+<City>Newport</City>
+<Country>Wales</Country>
+</Brewery>
+<Brewery id="46">
+<Name>Townshend Brewery</Name>
+<City>Nelson</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="241">
+<Name>Tree Hugger</Name>
+<City>Timaru</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="3">
+<Name>Tuatara Brewery</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="66">
+<Name>Tui Brewery</Name>
+<City>Mangatinoka</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="290">
+<Name>Two Birds</Name>
+<City>Melbourne</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="218">
+<Name>Two Fingers</Name>
+<City>Rotorua</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="298">
+<Name>Two Thumb Brewing Co</Name>
+<City>Christchurch</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="170">
+<Name>United Breweries</Name>
+<City>Bangalore</City>
+<Country>India</Country>
+</Brewery>
+<Brewery id="185">
+<Name>United Dutch Breweries</Name>
+<City>Breda</City>
+<Country>The Netherlands</Country>
+</Brewery>
+<Brewery id="254">
+<Name>Vakyrie Brewing Company</Name>
+<City>Christchurch</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="169">
+<Name>Van Eecke</Name>
+<City>Watou</City>
+<Country>Belgium</Country>
+</Brewery>
+<Brewery id="150">
+<Name>Wadworth</Name>
+<City>Devizies, Wiltshire</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="192">
+<Name>Waiheke Brewery</Name>
+<City>Waiheke Island</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="145">
+<Name>Waiheke Island Brewery</Name>
+<City>Waiheke Island</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="193">
+<Name>Wanaka Beerwork</Name>
+<City>Wanaka</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="37">
+<Name>Wanaka Beerworks</Name>
+<City>Wanaka</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="312">
+<Name>Weird Beard Brewing Company</Name>
+<City>London</City>
+<Country>UK</Country>
+</Brewery>
+<Brewery id="199">
+<Name>Wellpark Brewery</Name>
+<City>Glasgow</City>
+<Country>Scotland</Country>
+</Brewery>
+<Brewery id="59">
+<Name>Wells &amp; Young's Brewery</Name>
+<City>Bedford</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="132">
+<Name>West Coast Brewery</Name>
+<City>Westport</City>
+<Country>NZ</Country>
+</Brewery>
+<Brewery id="349">
+<Name>Wheaty Brewing Corps.</Name>
+<City>Adelaide</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="346">
+<Name>Widmer Brothers Brewing</Name>
+<City>Oregon</City>
+<Country>USA</Country>
+</Brewery>
+<Brewery id="23">
+<Name>Wig &amp; Pen Tavern and Brewery</Name>
+<City>Canberra</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="194">
+<Name>Wigram Brewing Co</Name>
+<City>Christchurch</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="29">
+<Name>Wigram Brewing Company</Name>
+<City>Christchurch</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="339">
+<Name>Wild Side</Name>
+<City>Auckland</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="142">
+<Name>WM. Magner</Name>
+<City>Clonmel</City>
+<Country>Ireland</Country>
+</Brewery>
+<Brewery id="276">
+<Name>Wychwood Brewery</Name>
+<City>Oxfordshire</City>
+<Country>England</Country>
+</Brewery>
+<Brewery id="28">
+<Name>Yeastie Boys</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+<Brewery id="272">
+<Name>Yeastie Boys - Panhead - Firestone Walker</Name>
+<City>Collaboration</City>
+<Country>Collaboration</Country>
+</Brewery>
+<Brewery id="350">
+<Name>Young Henry's</Name>
+<City>Sydney</City>
+<Country>Australia</Country>
+</Brewery>
+<Brewery id="134">
+<Name>Zeffer</Name>
+<City>Matakana</City>
+<Country>NZ</Country>
+</Brewery>
+</Breweries>

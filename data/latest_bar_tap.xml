@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Latest type="Bar" list="Tap" count="30">
+<Item>
+<Beer id="312">
+<Name>ParrotDog FlaxenFeather</Name>
+<Style>Blonde Ale</Style>
+<Abv>4.7</Abv>
+<Brewery id="117">
+<Name>ParrotDog</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="9" type="Bar">
+<Name>Southern Cross</Name>
+</Purveyor>
+<ListedDate>2014-09-13 15:39:56</ListedDate>
+<DaysAgo>0</DaysAgo>
+</Item>
+<Item>
+<Beer id="984">
+<Name>Golden Bear California Pale</Name>
+<Style>Pale Ale</Style>
+<Abv>5.3</Abv>
+<Brewery id="112">
+<Name>Golden Bear Brewing Company</Name>
+<City>Mapua, Nelson</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="27" type="Bar">
+<Name>Bin44 Restaurant &amp; Bar</Name>
+</Purveyor>
+<ListedDate>2014-09-13 14:29:56</ListedDate>
+<DaysAgo>0</DaysAgo>
+</Item>
+<Item>
+<Beer id="714">
+<Name>Mike's OMPA (one more pale ale)</Name>
+<Style>IPA</Style>
+<Abv>6.3</Abv>
+<Brewery id="47">
+<Name>Mike's Organic Brewery</Name>
+<City>Taranaki</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="2" type="Bar">
+<Name>The Bruhaus</Name>
+</Purveyor>
+<ListedDate>2014-09-13 12:04:04</ListedDate>
+<DaysAgo>0</DaysAgo>
+</Item>
+<Item>
+<Beer id="1363">
+<Name>ParrotDog Dead Canary</Name>
+<Style>Pale Ale</Style>
+<Abv>5</Abv>
+<Brewery id="117">
+<Name>ParrotDog</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="2" type="Bar">
+<Name>The Bruhaus</Name>
+</Purveyor>
+<ListedDate>2014-09-13 12:03:54</ListedDate>
+<DaysAgo>0</DaysAgo>
+</Item>
+<Item>
+<Beer id="1244">
+<Name>Kereru For Great Justice</Name>
+<Style>Wood Fired Toasted Coconut Porter</Style>
+<Abv>4.5</Abv>
+<Brewery id="205">
+<Name>Kereru</Name>
+<City>Silverstream</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="2" type="Bar">
+<Name>The Bruhaus</Name>
+</Purveyor>
+<ListedDate>2014-09-13 12:03:11</ListedDate>
+<DaysAgo>0</DaysAgo>
+</Item>
+<Item>
+<Beer id="204">
+<Name>Tuatara APA</Name>
+<Style>American Pale Ale</Style>
+<Abv>5.8</Abv>
+<Brewery id="3">
+<Name>Tuatara Brewery</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="2" type="Bar">
+<Name>The Bruhaus</Name>
+</Purveyor>
+<ListedDate>2014-09-13 12:03:03</ListedDate>
+<DaysAgo>0</DaysAgo>
+</Item>
+<Item>
+<Beer id="868">
+<Name>ParrotDog PitBull</Name>
+<Style>American IPA</Style>
+<Abv>7</Abv>
+<Brewery id="117">
+<Name>ParrotDog</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="31" type="Bar">
+<Name>Rogue &amp; Vagabond</Name>
+</Purveyor>
+<ListedDate>2014-09-13 00:51:20</ListedDate>
+<DaysAgo>0</DaysAgo>
+</Item>
+<Item>
+<Beer id="868">
+<Name>ParrotDog PitBull</Name>
+<Style>American IPA</Style>
+<Abv>7</Abv>
+<Brewery id="117">
+<Name>ParrotDog</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="31" type="Bar">
+<Name>Rogue &amp; Vagabond</Name>
+</Purveyor>
+<ListedDate>2014-09-13 00:51:20</ListedDate>
+<DaysAgo>0</DaysAgo>
+</Item>
+<Item>
+<Beer id="673">
+<Name>Renaissance Black the RIPA</Name>
+<Style>Black Rye IPA</Style>
+<Abv>6.1</Abv>
+<Brewery id="9">
+<Name>Renaissance Brewing</Name>
+<City>Blenheim</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="31" type="Bar">
+<Name>Rogue &amp; Vagabond</Name>
+</Purveyor>
+<ListedDate>2014-09-13 00:50:53</ListedDate>
+<DaysAgo>0</DaysAgo>
+</Item>
+<Item>
+<Beer id="673">
+<Name>Renaissance Black the RIPA</Name>
+<Style>Black Rye IPA</Style>
+<Abv>6.1</Abv>
+<Brewery id="9">
+<Name>Renaissance Brewing</Name>
+<City>Blenheim</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="31" type="Bar">
+<Name>Rogue &amp; Vagabond</Name>
+</Purveyor>
+<ListedDate>2014-09-13 00:50:53</ListedDate>
+<DaysAgo>0</DaysAgo>
+</Item>
+<Item>
+<Beer id="816">
+<Name>Garage Project Hapi Daze</Name>
+<Style>Summer Ale</Style>
+<Abv>4.2</Abv>
+<Brewery id="119">
+<Name>Garage Project</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="31" type="Bar">
+<Name>Rogue &amp; Vagabond</Name>
+</Purveyor>
+<ListedDate>2014-09-13 00:50:29</ListedDate>
+<DaysAgo>0</DaysAgo>
+</Item>
+<Item>
+<Beer id="816">
+<Name>Garage Project Hapi Daze</Name>
+<Style>Summer Ale</Style>
+<Abv>4.2</Abv>
+<Brewery id="119">
+<Name>Garage Project</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="31" type="Bar">
+<Name>Rogue &amp; Vagabond</Name>
+</Purveyor>
+<ListedDate>2014-09-13 00:50:29</ListedDate>
+<DaysAgo>0</DaysAgo>
+</Item>
+<Item>
+<Beer id="36">
+<Name>Epic Armageddon</Name>
+<Style>IPA</Style>
+<Abv>6.66</Abv>
+<Brewery id="4">
+<Name>Epic Brewing Company</Name>
+<City>Auckland</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="7" type="Bar">
+<Name>Malthouse</Name>
+</Purveyor>
+<ListedDate>2014-09-12 22:06:56</ListedDate>
+<DaysAgo>1</DaysAgo>
+</Item>
+<Item>
+<Beer id="337">
+<Name>Yeastie Boys Hud-a-wa'</Name>
+<Style>Strong ale</Style>
+<Abv>6.8</Abv>
+<Brewery id="28">
+<Name>Yeastie Boys</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="27" type="Bar">
+<Name>Bin44 Restaurant &amp; Bar</Name>
+</Purveyor>
+<ListedDate>2014-09-12 20:34:59</ListedDate>
+<DaysAgo>1</DaysAgo>
+</Item>
+<Item>
+<Beer id="1056">
+<Name>ParrotDog Otis</Name>
+<Style>Oatmeal Stout</Style>
+<Abv>6.3</Abv>
+<Brewery id="117">
+<Name>ParrotDog</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="4" type="Bar">
+<Name>Little Beer Quarter</Name>
+</Purveyor>
+<ListedDate>2014-09-12 18:29:03</ListedDate>
+<DaysAgo>1</DaysAgo>
+</Item>
+<Item>
+<Beer id="1120">
+<Name>Panhead Supercharger</Name>
+<Style>APA</Style>
+<Abv>5.7</Abv>
+<Brewery id="266">
+<Name>Panhead</Name>
+<City>Upper Hutt</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="4" type="Bar">
+<Name>Little Beer Quarter</Name>
+</Purveyor>
+<ListedDate>2014-09-12 18:28:37</ListedDate>
+<DaysAgo>1</DaysAgo>
+</Item>
+<Item>
+<Beer id="1899">
+<Name>Young Henry's Newtowner</Name>
+<Style>Blonde Ale</Style>
+<Abv>4.8</Abv>
+<Brewery id="350">
+<Name>Young Henry's</Name>
+<City>Sydney</City>
+<Country>Australia</Country>
+</Brewery>
+</Beer>
+<Purveyor id="4" type="Bar">
+<Name>Little Beer Quarter</Name>
+</Purveyor>
+<ListedDate>2014-09-12 18:27:26</ListedDate>
+<DaysAgo>1</DaysAgo>
+</Item>
+<Item>
+<Beer id="1898">
+<Name>Feral Watermelon Warhead</Name>
+<Style>Berliner Weisse</Style>
+<Abv>2.9</Abv>
+<Brewery id="268">
+<Name>Feral Brewing</Name>
+<City>Perth</City>
+<Country>Australia</Country>
+</Brewery>
+</Beer>
+<Purveyor id="4" type="Bar">
+<Name>Little Beer Quarter</Name>
+</Purveyor>
+<ListedDate>2014-09-12 18:26:27</ListedDate>
+<DaysAgo>1</DaysAgo>
+</Item>
+<Item>
+<Beer id="1680">
+<Name>Coronado Sock Knocker</Name>
+<Style>IIPA</Style>
+<Abv>8.5</Abv>
+<Brewery id="238">
+<Name>Coronado</Name>
+<City>California</City>
+<Country>United States</Country>
+</Brewery>
+</Beer>
+<Purveyor id="4" type="Bar">
+<Name>Little Beer Quarter</Name>
+</Purveyor>
+<ListedDate>2014-09-12 18:25:49</ListedDate>
+<DaysAgo>1</DaysAgo>
+</Item>
+<Item>
+<Beer id="1745">
+<Name>Renaissance India Session Ale</Name>
+<Style>IPA</Style>
+<Abv>4.9</Abv>
+<Brewery id="9">
+<Name>Renaissance Brewing</Name>
+<City>Blenheim</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="8" type="Bar">
+<Name>The Hop Garden</Name>
+</Purveyor>
+<ListedDate>2014-09-12 18:04:13</ListedDate>
+<DaysAgo>1</DaysAgo>
+</Item>
+<Item>
+<Beer id="1894">
+<Name>Garage Project Tournesol</Name>
+<Style>Spiced Saison</Style>
+<Abv>6.5</Abv>
+<Brewery id="119">
+<Name>Garage Project</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="27" type="Bar">
+<Name>Bin44 Restaurant &amp; Bar</Name>
+</Purveyor>
+<ListedDate>2014-09-12 17:59:19</ListedDate>
+<DaysAgo>1</DaysAgo>
+</Item>
+<Item>
+<Beer id="1237">
+<Name>Baylands Woodrow's Veto IPA</Name>
+<Style>IPA</Style>
+<Abv>7</Abv>
+<Brewery id="250">
+<Name>Baylands Brewery</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="25" type="Bar">
+<Name>Bebemos</Name>
+</Purveyor>
+<ListedDate>2014-09-12 17:31:42</ListedDate>
+<DaysAgo>1</DaysAgo>
+</Item>
+<Item>
+<Beer id="1517">
+<Name>Black Dog Malinois</Name>
+<Style>Saison</Style>
+<Abv>7</Abv>
+<Brewery id="130">
+<Name>Black Dog Brewery</Name>
+<City>Wellington</City>
+<Country>NZ</Country>
+</Brewery>
+</Beer>
+<Purveyor id="7" type="Bar">
+<Name>Malthouse</Name>
+</Purveyor>
+<ListedDate>2014-09-12 15:35:12</ListedDate>
+<DaysAgo>1</DaysAgo>
+</Item>
+<Item>
+<Beer id="1330">
+<Name>Mike's Full Nelson IPA</Name>
+<Style>IPA</Style>
+<Abv>7</Abv>
+<Brewery id="47">
+<Name>Mike's Organic Brewery</Name>
+<City>Taranaki</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="37" type="Bar">
+<Name>Basque</Name>
+</Purveyor>
+<ListedDate>2014-09-12 14:12:04</ListedDate>
+<DaysAgo>1</DaysAgo>
+</Item>
+<Item>
+<Beer id="184">
+<Name>Hallertau Minimus Golden Ale</Name>
+<Style>Golden Ale</Style>
+<Abv>3.9</Abv>
+<Brewery id="93">
+<Name>Hallertau Brewbar</Name>
+<City>Riverhead</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="37" type="Bar">
+<Name>Basque</Name>
+</Purveyor>
+<ListedDate>2014-09-12 14:10:53</ListedDate>
+<DaysAgo>1</DaysAgo>
+</Item>
+<Item>
+<Beer id="32">
+<Name>Three Boys Wheat</Name>
+<Style>Belgian Wheat</Style>
+<Abv>5</Abv>
+<Brewery id="2">
+<Name>Three Boys Brewery</Name>
+<City>Christchurch</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="37" type="Bar">
+<Name>Basque</Name>
+</Purveyor>
+<ListedDate>2014-09-12 14:10:27</ListedDate>
+<DaysAgo>1</DaysAgo>
+</Item>
+<Item>
+<Beer id="707">
+<Name>ParrotDog BitterBitch</Name>
+<Style>IPA</Style>
+<Abv>6</Abv>
+<Brewery id="117">
+<Name>ParrotDog</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="27" type="Bar">
+<Name>Bin44 Restaurant &amp; Bar</Name>
+</Purveyor>
+<ListedDate>2014-09-12 12:09:14</ListedDate>
+<DaysAgo>1</DaysAgo>
+</Item>
+<Item>
+<Beer id="1683">
+<Name>Behemoth Brewing Co 'Murica APA</Name>
+<Style>American Pale Ale</Style>
+<Abv>6</Abv>
+<Brewery id="270">
+<Name>Behemoth Brewing Co</Name>
+<City>Christchurch</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="31" type="Bar">
+<Name>Rogue &amp; Vagabond</Name>
+</Purveyor>
+<ListedDate>2014-09-11 21:51:54</ListedDate>
+<DaysAgo>2</DaysAgo>
+</Item>
+<Item>
+<Beer id="1598">
+<Name>Mike's Chocolate Milk Stout</Name>
+<Style>Milk Stout</Style>
+<Abv>5.3</Abv>
+<Brewery id="47">
+<Name>Mike's Organic Brewery</Name>
+<City>Taranaki</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="8" type="Bar">
+<Name>The Hop Garden</Name>
+</Purveyor>
+<ListedDate>2014-09-11 20:51:44</ListedDate>
+<DaysAgo>2</DaysAgo>
+</Item>
+<Item>
+<Beer id="1808">
+<Name>Tuatara Portly Abbot</Name>
+<Style>Belgian Golden Strong</Style>
+<Abv>9</Abv>
+<Brewery id="3">
+<Name>Tuatara Brewery</Name>
+<City>Wellington</City>
+<Country>New Zealand</Country>
+</Brewery>
+</Beer>
+<Purveyor id="8" type="Bar">
+<Name>The Hop Garden</Name>
+</Purveyor>
+<ListedDate>2014-09-11 20:50:47</ListedDate>
+<DaysAgo>2</DaysAgo>
+</Item>
+</Latest>
