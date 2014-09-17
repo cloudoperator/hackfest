@@ -1,0 +1,131 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Beer o'clock | Bars</title>
+    <link rel="stylesheet" href="css/foundation.css" />
+    <link rel="stylesheet" href="css/custom.css" />
+    <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+    <script src="js/vendor/modernizr.js"></script>
+  </head>
+<body> 
+  <div class="sticky">
+    <nav class="top-bar" data-topbar role="navigation">
+    <ul class="title-area">
+      <li class="name">
+        <h1><a href="home.html">Beer O'Clock</a></h1>
+      </li>
+ 
+      <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+      <!-- Right Nav Section -->
+      <ul class="right">
+        <li class="Menu">
+          <a href="bars.html">Bars</a>
+        </li>
+      <ul>
+      <ul class="right">
+        <li class="Menu">
+          <a href="#">Beer Type</a>
+        </li>
+      <ul>
+      <ul class="right">
+        <li class="Menu">
+          <a href="nearest.html">Nearest</a>
+        </li>
+      <ul>
+        <li class="Menu">
+          <a href="#">Price</a>
+        </li>
+      </ul>
+      <ul>
+        <li class="Menu">
+          <a href="#">Brand</a>
+        </li>
+      </ul>
+      <ul>
+        <li class="Menu">
+          <a href="percentage.html">ABV</a>
+        </li>
+      </ul>
+      <!-- Left Nav Section -->
+    </section>
+  </nav>
+
+  </div>
+   <div class="row center margintop">
+    
+      <div class="large-8 large-centered columns">
+        <span><h1>Bar Hunter</h1></span>
+        <p>Find out what's on tap right now, click on your favourite bar below</p>
+      </div>
+    </div>
+  <section class="one">
+    <div class="row center margin">
+      <div class="large-4 medium-6 columns">
+        <a onclick="getBeerBrand(1);" href="javascript:void(0);">
+        <h1>Hashigozake</h1></a>
+        <p></p>
+        <hr>
+      </div>
+      <div class="large-4 medium-6 columns">
+      <a onclick="getBeerBrand(2);" href="javascript:void(0);">
+        <h1>L.B.Q.</h1></a>
+        <p></p><hr>
+      </div>
+      <div class="large-4 medium-6 columns">
+      <a onclick="getBeerBrand(3);" href="javascript:void(0);">
+        <h1>Rouge</h1></a>
+        <p></p><hr>
+      </div>
+      <div class="large-4 medium-6 columns">
+      <a onclick="getBeerBrand(4);" href="javascript:void(0);">
+        <h1>Greenman</h1></a>
+        <p></p><hr>
+      </div>
+      <div class="large-4 medium-6 columns">
+      <a onclick="getBeerBrand(5);" href="javascript:void(0);">
+        <h1>Fork &amp; Brewer</h1></a>
+        <p></p><hr>
+      </div>
+      <div class="large-4 medium-6 columns">
+      <a onclick="getBeerBrand(6);" href="javascript:void(0);">
+        <h1>Malthouse</h1></a>
+        <p></p><hr>
+      </div>
+       <div class="large-4 medium-6 columns">
+      <a onclick="getBeerBrand(7);" href="javascript:void(0);">
+        <h1>Bin44</h1></a>
+        <p></p><hr>
+      </div>
+      <div class="large-4 medium-6 columns">
+      <a onclick="getBeerBrand(8);" href="javascript:void(0);">
+        <h1>D4</h1></a>
+        <p></p><hr>
+      </div>
+       <div class="large-4 medium-6 columns end">
+      <a onclick="getBeerBrand(9);" href="javascript:void(0);">
+        <h1>Bruhaus</h1></a>
+        <p></p><hr>
+      </div>
+    </div>
+  </section>
+    <div class="row centered">
+     <div id="result"></div>
+    </div>
+    <div id="footer">
+      <div class="fullWidth">
+        <p>&copy; Team Craft 2014</p>
+      </div>
+    </div>
+
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script src="js/Global.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </body>
+</html>

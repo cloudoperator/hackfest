@@ -1,0 +1,84 @@
+
+
+    <!DOCTYPE html>
+    <html lang="en">
+        <head>
+            <meta charset="utf-8"></meta>
+            <title>
+
+                Grath
+
+            </title>
+            <script src="d3.v3.min.js" charset="utf-8"></script>
+            <style type="text/css">
+            </style>
+        </head>
+        <body>
+            <div id="chartContainer">
+
+            </div>
+            <script src="dimple.v2.1.0.min.js"></script>
+  <script type="text/javascript">
+    var svg = dimple.newSvg("#chartContainer", 600, 400),
+    /*
+    So I have fixed up the graph to do a few things 
+    First it now flickes through diffrent types and displayes there comparsomes that way.
+
+    Second it can have its color changed. Will put a comment on where to change this
+
+    Data is index in a piticuler way.
+    "Beer" : "Spaights", "Price" : 7.50, "Per%" : 0.5
+    
+    "Beer" is the label for a type it is used to change diffeering display types.
+
+     "Price"  is related to the axis that is is pertrayed on if you change this need to change the axis label aswell.
+
+     "Per%" is also related to a axis same as above.
+
+    */
+    data = [
+        { "Beer" : "Spaights", "Price" : 7.50, "Per%" : 0.5},
+        { "Beer" : "Dark", "Price" : 8.50, "Per%" : 0.7},
+        { "Beer" : "Light", "Price" : 5, "Per%" : 0.25},
+        { "Beer" : "Light", "Price" : 6, "Per%" : 0.30},
+        { "Beer" : "Light", "Price" : 8, "Per%" : 0.4},
+        { "Beer" : "Light", "Price" : 7, "Per%" : 0.9}
+    ];
+
+
+    chart = new dimple.chart(svg, data);
+
+    // this is used to set the overall size of the chart.
+    chart.setBounds(60, 30, 510, 305);
+
+    // deflat colors can be added here.
+    chart.defaultColors = [
+        new dimple.color("#FFFF00"),
+        new dimple.color("#FFFF00")
+    ];
+
+    // This make a gradiale change based on the color inside i think.
+    chart.addColorAxis("Per%", "#FF9933");
+
+    // this made that effet of flipping thought the diffrent bar views.
+    chart.setStoryboard("Beer");
+    
+    // these can be changed but need to change the data if you do.
+    x = chart.addCategoryAxis("x", "Per%");
+    y = chart.addMeasureAxis("y", "Price");
+    
+    // changeing this changes the type of grath. bar, line, bubble and area 
+    s = chart.addSeries(null, dimple.plot.bar);
+
+
+    x.addOrderRule(function (a, b) {
+    // The example here uses the length of the strings to order the values in descending order.
+    // A negative number means that b comes before a, a positive number means a comes before b.
+    return b["Beer"].length - a["Beer"].length;
+    });
+    chart.draw();
+      </script>
+
+        </body>
+    </html>
+

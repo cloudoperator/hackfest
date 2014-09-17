@@ -1,0 +1,113 @@
+body {
+	background-color:#E77154;
+	font-family: helvetica, sans-ser;
+
+	/*color: #FDFDFD; off white*/
+}
+
+body p {
+	font-weight: ;
+	font-size: 20px;
+	line-height: 1.5;
+}
+
+
+h1 {
+	/*color: #FDFDFD;*/
+	font-size: 28px;
+	letter-spacing: 1.5px;
+	font-weight: 500;
+	text-transform: uppercase;
+}
+
+hr {
+	color: #333333;
+}
+
+span h1 {
+	text-transform: none;
+	font-size: 40px;
+	color: #FDFDFD;
+}
+
+#itemone {
+	background-color: blue;
+	height: 200px;
+}
+
+.circle img{
+	 background-position: 50% 50%;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.pint img{
+	height: 20px;
+}
+
+.bottom {
+	margin-bottom: 60px;
+}
+
+.center {
+	text-align: center;
+}
+
+.margin {
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
+.margin a:hover{
+	
+}
+
+#footer {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    color: #aaa;
+    text-align: center;
+    width: 100%;
+    background-color: #333333;
+}
+
+#footer p {
+	font-size: 10px;
+	margin-bottom: 0px;
+	padding: 4px;
+}
+
+
+.fullWidth {
+   width: 100%;
+ 
+}
+
+.buton {
+	color: white;
+	border: 1px solid white;
+	background-color: none;
+	padding: 20px;
+	margin: 0 10px;
+}
+
+.scale img {
+	height: 200px;
+	margin-bottom: 20px;
+	margin-top: 50px;
+}
+
+section {
+	background-color: #FDFDFD;
+
+}
+
+.margintop {
+	margin-top: 40px;
+}
+
+

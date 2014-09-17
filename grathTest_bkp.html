@@ -1,0 +1,42 @@
+
+
+    <!DOCTYPE html>
+    <html lang="en">
+        <head>
+            <meta charset="utf-8"></meta>
+            <title>
+
+                Grath
+
+            </title>
+            <script src="js/d3.v3.min.js" charset="utf-8"></script>
+            <style type="text/css">
+            </style>
+        </head>
+        <body>
+            <div id="chartContainer">
+
+            </div>
+            <script src="js/dimple.v2.1.0.min.js"></script>
+  <script type="text/javascript">
+    var svg = dimple.newSvg("#chartContainer", 1200, 500),
+    data = [
+        { "Price" : 7.50, "Per%" : 0.5, "Beer" : "Spaights"},
+        { "Price" : 8.50, "Per%" : 0.7, "Beer" : "Dark"},
+        { "Price" : 5, "Per%" : 0.25, "Beer" : "Light"}
+    ],
+    chart = new dimple.chart(svg, data),
+    x = chart.addCategoryAxis("x", "Per%"),
+    y = chart.addMeasureAxis("y", "Price"),
+    s = chart.addSeries(null, dimple.plot.bar);
+    x.addOrderRule(function (a, b) {
+    // The example here uses the length of the strings to order the values in descending order.
+    // A negative number means that b comes before a, a positive number means a comes before b.
+    return b["Beer"].length - a["Beer"].length;
+    });
+    chart.draw();
+      </script>
+
+        </body>
+    </html>
+
